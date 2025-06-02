@@ -1,0 +1,21 @@
+RELATÓRIOS DA BIBLIOTECA
+
+LIVROS DISPONÍVEIS:
+- Livro do Fogo (Código: 00001, Cópias: 2)
+- Livro da Água (Código: 00002, Cópias: 2)
+Total: 2 livro(s) disponível(is)
+
+LIVROS EMPRESTADOS:
+- Livro do Fogo emprestado para Bruno Ribeiro em 02/06/2025 às 00:08:32
+Total: 1 empréstimo(s) ativo(s)
+
+HISTÓRICO DE DEVOLUÇÕES (mês atual):
+Nenhuma devolução registrada neste mês.
+Total: 0 devolução(ões) registrada(s) neste mês
+
+USUÁRIOS CADASTRADOS:
+- Bruno Ribeiro (ID: 00001, Telefone: 15987651234, Email: meuemail@email.com)
+- João do Caminhão (ID: 00002, Telefone: 15912348765, Email: emaildojoao@caminhao.com)
+- Djair Facinho de Confundir (ID: 00003, Telefone: 15 943216789, Email: eumesmo@djair.com)
+Total: 3 usuário(s) cadastrado(s)
+
